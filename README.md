@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @alsalsabil
-- 👀 I’m interested in Robotics 
-- 🌱 I’m currently learning Arduino and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me an Email@: salisalss359@gmail.com
 
 <!---
